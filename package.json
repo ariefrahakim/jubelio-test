@@ -12,7 +12,7 @@
     "cy:info": "cypress info",
     "cy:version": "cypress version"
   },
-  "author": "Iwan Suryo Widodo",
+  "author": "Arief Rahman Hakim",
   "license": "",
   "dependencies": {},
   "devDependencies": {
